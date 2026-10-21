@@ -1,0 +1,806 @@
+[
+  {
+    "date": "2026-11-26",
+    "label": "Jueves 26 de noviembre",
+    "blocks": [
+      {
+        "time": "09:00–10:00",
+        "sessions": [],
+        "event_lines": [
+          "Acreditación – Facultat de Filosofia de la Universitat de Barcelona",
+          "Carrer de Montalegre 6, 4piso, Ciutat Vella, 08001 Barcelona"
+        ],
+        "event": {
+          "title": "Acreditación",
+          "subtitle": "Facultat de Filosofia · Universitat de Barcelona",
+          "person": "",
+          "room": "4.ª planta",
+          "extra": "Carrer de Montalegre, 6 · 08001 Barcelona",
+          "kind": "general"
+        }
+      },
+      {
+        "time": "10:00–12:00",
+        "sessions": [
+          {
+            "gt": 7,
+            "title": "La ilustración oscura I",
+            "room": "Seminario de Filosofía Nuria Folch",
+            "talks": [
+              {
+                "id": 26,
+                "title": "Frente externo y doméstico de la Ilustración Oscura",
+                "author": "Andres Vidal",
+                "institution": "Universidad de Chile"
+              },
+              {
+                "id": 44,
+                "title": "Paleolibertarismo o del mito del buen civilizado: sobre el giro particularista del pensamiento libertario",
+                "author": "Carlos Javier Villacís Hidalgo",
+                "institution": "UCM"
+              },
+              {
+                "id": 9,
+                "title": "Bienvenidos a Fortress World: aspectos políticos, tecnológicos y medioambientales del neofascismo",
+                "author": "José Carlos Cañizares Gaztelu; Pablo Font Oporto",
+                "institution": "Universidad de Loyola Andalucía"
+              },
+              {
+                "id": 32,
+                "title": "La ilustración oscura: guerras religiosas en la era de las nuevas batallas bíblicas",
+                "author": "Jordi López Ortega",
+                "institution": "Universitat de Barcelona"
+              },
+              {
+                "id": 6,
+                "title": "La revolución: Stiegler/Nietzsche",
+                "author": "Alain Jugnon",
+                "institution": "Universidad de Lyon 3"
+              }
+            ],
+            "id": "sesion-20261126-7-1000",
+            "label": "GT 7"
+          },
+          {
+            "gt": 9,
+            "title": "Gobernanza global I",
+            "room": "Seminario Joan Lluís Vives",
+            "talks": [
+              {
+                "id": 17,
+                "title": "Cuando la Constitución sobrevive, pero la democracia retrocede: soberanía constitucional, consulta popular y lawfare en Ecuador (2017–2025)",
+                "author": "Sonia Gabriela Vera García",
+                "institution": "Universitat de Barcelona"
+              },
+              {
+                "id": 57,
+                "title": "As soberanias na América do Sul e a reconfiguração do Estado de Direito: por um paradigma decolonial de desenvolvimentismo democrático",
+                "author": "Danilo Marcelino Duarte Almeida",
+                "institution": "Universidade Federal do Rio de Janeiro"
+              },
+              {
+                "id": 76,
+                "title": "¿Puede un escritor demoler un imperio?",
+                "author": "Eduard Tarnawski Geslowska",
+                "institution": "Afiliación no indicada"
+              },
+              {
+                "id": 34,
+                "title": "Culturocracia en Huntington: “Le futur c’est la culture!”",
+                "author": "Leonard Picus",
+                "institution": "Universitat de Barcelona"
+              }
+            ],
+            "id": "sesion-20261126-9-1000",
+            "label": "GT 5/9"
+          },
+          {
+            "gt": 11,
+            "title": "Necrobiopoder I",
+            "room": "Seminario María Zambrano",
+            "talks": [
+              {
+                "title": "Neoconservadorismo, necrobiopoder e retrocessos na legislação antidiscriminatória para pessoas LGBT+ no Brasil: uma crítica decolonial e queer ao direito",
+                "author": "Alexandre Gustavo Melo Franco Bahia",
+                "institution": "Universidade Federal de Minas Gerais (UFMG)",
+                "id": 41
+              },
+              {
+                "title": "La producción de la subjetividad del cuerpo migrante: gestión diferencial de la vida y violencia estatal en la política migratoria de EE. UU.",
+                "author": "Marcos Sánchez Triñanes",
+                "institution": "University of California, Berkeley",
+                "id": 56
+              },
+              {
+                "title": "Corpos essenciais, vidas descartáveis: necropoder, desigualdade racial e vulnerabilização das mulheres negras no Brasil em contextos de crise",
+                "author": "Ana Paula Santos Diniz; Maria Eduarda Franciscani Almeida Ferreira",
+                "institution": "Universidade do Estado de Minas Gerais",
+                "id": 13
+              },
+              {
+                "title": "Necropolítica e educação: a gestão diferencial dos corpos na escola brasileira em tempo de crise da ordem global",
+                "author": "Rodrigo Marzano Antunes Miranda",
+                "institution": "Universidade Federal de Minas Gerais",
+                "id": 71
+              }
+            ],
+            "id": "sesion-20261126-11-1000",
+            "label": "GT 11"
+          },
+          {
+            "gt": 12,
+            "title": "Corporalidades en crisis I",
+            "room": "Seminario Ramon Llull",
+            "talks": [
+              {
+                "title": "Ecología del hombre: hacia una fundamentación ontológica de los derechos humanos en la era posthumana",
+                "author": "Santiago López Posada",
+                "institution": "Universidad Pontificia Bolivariana",
+                "id": 75
+              },
+              {
+                "title": "Salud mental en crisis: ¿hacia la desaparición del relato humano?",
+                "author": "Paula Arizmendi Mar",
+                "institution": "Universidad Iberoamericana",
+                "id": 54
+              },
+              {
+                "title": "Aproximaciones a la alteridad: psicoanálisis del encuentro con el otro, sujeto sufriente y deseo post-hedonista",
+                "author": "Enrique Rivero Ojeda",
+                "institution": "UNAM",
+                "id": 4
+              },
+              {
+                "title": "Sexualidades originarias: hacia una corporalidad y corporeidad integradoras",
+                "author": "Miguel Ángel Sánchez Carlos",
+                "institution": "Universidad Iberoamericana",
+                "id": 27
+              }
+            ],
+            "id": "sesion-20261126-12-1000",
+            "label": "GT 12"
+          }
+        ],
+        "event_lines": []
+      },
+      {
+        "time": "13:00–15:00",
+        "sessions": [],
+        "event_lines": [
+          "Comida de bienvenida [16.50 €] – Terracccita del CCCB",
+          "Carrer de Montalegre, 5, Ciutat Vella, 08001 Barcelona"
+        ],
+        "event": {
+          "title": "Comida de bienvenida",
+          "subtitle": "CCCB",
+          "person": "",
+          "room": "",
+          "extra": "16,50 € · Carrer de Montalegre, 5 · 08001 Barcelona",
+          "kind": "break"
+        }
+      },
+      {
+        "time": "15:00–17:00",
+        "sessions": [
+          {
+            "gt": 1,
+            "title": "Multipolaridad sin multilateralismo",
+            "room": "Seminario María Zambrano",
+            "talks": [
+              {
+                "title": "Legados coloniais e transformações normativas nas operações globais de manutenção da paz: reflexões a partir do laboratório Haiti/Brasil",
+                "author": "Lorena Martoni de Freitas; Flávia Souza Máximo Pereira",
+                "institution": "Universidade Federal de Minas Gerais; Universidade Federal de Ouro Preto - Universidade de Oxford",
+                "id": 43
+              },
+              {
+                "title": "El florecer de la conciencia de Occidente como forma del Estado: el pueblo, el poder y la Unión Europea en la multipolaridad",
+                "author": "Lucas Bruno Amaral Mendes",
+                "institution": "Universidade Federal de Minas Gerais",
+                "id": 59
+              },
+              {
+                "title": "La OTAN en la globalización neoliberal",
+                "author": "Eduardo Melero Alonso",
+                "institution": "Universidad Autónoma de Madrid",
+                "id": 73
+              },
+              {
+                "title": "Libertad, racionalidad e historicidad: esbozos sobre el nuevo orden mundial",
+                "author": "Matheus Amaral Pereira de Miranda",
+                "institution": "Universidade Federal de Minas Gerais",
+                "id": 29
+              }
+            ],
+            "id": "sesion-20261126-1-1500",
+            "label": "GT 1"
+          },
+          {
+            "gt": 3,
+            "title": "Overcoming the Global Neoliberal System I",
+            "room": "Seminario de Filosofía Nuria Folch",
+            "talks": [
+              {
+                "title": "Más allá de la supervivencia: Giorgio Cesarano y los límites de la subversión en el capitalismo cibernético",
+                "author": "Bernat Torner Arís",
+                "institution": "Universitat Pompeu Fabra",
+                "id": 39
+              },
+              {
+                "title": "The short-circuit of subversion: left Europeanism after the crisis",
+                "author": "Nikolaos Nikolakakis",
+                "institution": "Zayed University, UAE",
+                "id": 66
+              },
+              {
+                "title": "The simulacrum of praxis: Adorno's negative utopia and Jäger's hyperpolitics",
+                "author": "Adrian Pochec",
+                "institution": "University of Warsaw",
+                "id": 5
+              },
+              {
+                "title": "Inverted Dérive: platform labor, spatial solipsism, and the neoliberal subject",
+                "author": "Maksymilian Maron",
+                "institution": "University of Warsaw",
+                "id": 37
+              },
+              {
+                "title": "Disability justice, care, and the reconfiguration of global communities beyond neoliberal medical-industrial complex",
+                "author": "Àger Pérez Casanovas",
+                "institution": "Universitat de Barcelona",
+                "id": 20
+              }
+            ],
+            "id": "sesion-20261126-3-1500",
+            "label": "GT 3"
+          },
+          {
+            "gt": 6,
+            "title": "El lado humano de la Inteligencia Artificial",
+            "room": "Seminario Ramon Llull",
+            "talks": [
+              {
+                "title": "La individuació dels objectes digitals i les IA generatives",
+                "author": "David Barrio Rubio",
+                "institution": "Universitat de Barcelona",
+                "id": 33
+              },
+              {
+                "title": "Cuando los algoritmos mandan: inteligencia artificial y alienación laboral",
+                "author": "José Francisco Gómez Rincón",
+                "institution": "Universitat Jaume I de Castelló",
+                "id": 74
+              },
+              {
+                "title": "Humanos, máquinas e processos de imaginalização: autoria, responsabilidade e formação em artes visuais",
+                "author": "Paula Mastroberti",
+                "institution": "Universidade Federal do Rio Grande do Sul",
+                "id": 38
+              },
+              {
+                "title": "La proyección de la dignidad humana a la luz de la inteligencia artificial",
+                "author": "Iker Nabaskues Martínez de Eulate",
+                "institution": "EHU - UPV",
+                "id": 82
+              },
+              {
+                "title": "O Direito Internacional entre a fragmentação normativa e as resistências no multilateralismo da governança da Inteligência Artificial",
+                "author": "Fabrício B. Pasquot Polido",
+                "institution": "Universidade Federal de Minas Gerais",
+                "id": 83
+              },
+              {
+                "title": "¿Qué puede ser más razonable en la distribución de la justicia: un complejo de placas de silicio y transistores o un complejo de nervios y hormonas?",
+                "author": "Mariah Brochado",
+                "institution": "Universidade Federal de Minas Gerais",
+                "id": 84
+              }
+            ],
+            "id": "sesion-20261126-6-1500",
+            "label": "GT 6"
+          },
+          {
+            "gt": 8,
+            "title": "Filosofía política y crisis contemporánea I",
+            "room": "Seminario Joan Lluís Vives",
+            "talks": [
+              {
+                "title": "Political regime: a history of the idea",
+                "author": "Zarina Kulaeva",
+                "institution": "Universitat Oberta de Catalunya",
+                "id": 67
+              },
+              {
+                "title": "Estábamos advertidos",
+                "author": "Josep Pradas Broch",
+                "institution": "Independiente",
+                "id": 23
+              },
+              {
+                "title": "Arendt y Rancière sobre la política de consenso",
+                "author": "Elisa Goyenechea",
+                "institution": "Universidad Católica Argentina",
+                "id": 70
+              },
+              {
+                "title": "Alfred Schmidt y su estudio del concepto de naturaleza en Marx: una crítica preventiva de las ontologizaciones dogmáticas",
+                "author": "Lola Mata i Harroué",
+                "institution": "Universitat de Barcelona",
+                "id": 2
+              },
+              {
+                "title": "Violencia política en la democracia contemporánea: grupos vulnerabilizados, sociedad turboglobalizada e instituciones de responsabilización",
+                "author": "Bianca Stella Azevedo Barroso",
+                "institution": "Universitat de Barcelona",
+                "id": 53
+              },
+              {
+                "title": "La necesidad de un equilibrio precario: reflexiones desde el pluralismo de valores de Isaiah Berlin",
+                "author": "Carlos Esteban González",
+                "institution": "Universidad Europea Miguel de Cervantes",
+                "id": 48
+              }
+            ],
+            "id": "sesion-20261126-8-1500",
+            "label": "GT 8"
+          }
+        ],
+        "event_lines": []
+      },
+      {
+        "time": "17:00–18:00",
+        "sessions": [],
+        "event_lines": [
+          "Coffe break – Vestíbulo delante de la Sala Jane Addams"
+        ],
+        "event": {
+          "title": "Pausa café",
+          "subtitle": "",
+          "person": "",
+          "room": "Vestíbulo delante de la Sala Jane Addams",
+          "extra": "",
+          "kind": "break"
+        }
+      },
+      {
+        "time": "18:00–18:30",
+        "sessions": [],
+        "event_lines": [
+          "Apertura institucional – Sala Jane Addams"
+        ],
+        "event": {
+          "title": "Apertura institucional",
+          "subtitle": "",
+          "person": "",
+          "room": "Sala Jane Addams",
+          "extra": "",
+          "kind": "general"
+        }
+      },
+      {
+        "time": "18:30–20:00",
+        "sessions": [],
+        "event_lines": [
+          "Conferencia inaugural:",
+          "«Las bases intelectuales del nuevo proceso constituyente mundial»",
+          "Prof. Catedrático José Luis Villacañas (Universidad Complutense de Madrid)",
+          "Sala Jane Addams"
+        ],
+        "event": {
+          "title": "Conferencia inaugural",
+          "subtitle": "Las bases intelectuales del nuevo proceso constituyente mundial",
+          "person": "José Luis Villacañas · Universidad Complutense de Madrid",
+          "room": "Sala Jane Addams",
+          "extra": "",
+          "kind": "plenary"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "label": "Viernes 27 de noviembre",
+    "blocks": [
+      {
+        "time": "10:00–12:00",
+        "sessions": [
+          {
+            "gt": 2,
+            "title": "Republican Political Philosophy",
+            "room": "Aula 409",
+            "talks": [
+              {
+                "title": "Undermining sovereign responsibility: the statist case against border externalization",
+                "author": "Lukas Schmid",
+                "institution": "Universitat Pompeu Fabra",
+                "id": 35
+              },
+              {
+                "title": "The freedom of peoples: Kant, sovereignty, and collective non-domination",
+                "author": "Roey Reichert",
+                "institution": "Martin Luther University Halle-Wittenberg, Interdisciplinary Centre for European Enlightenment Studies",
+                "id": 52
+              },
+              {
+                "title": "Beyond longevity: the separation of powers as a technique of republican preservation in global complexity",
+                "author": "Franco Manni",
+                "institution": "Liceo Scientifico Leonardo, Brescia, Italy",
+                "id": 8
+              },
+              {
+                "title": "Freedom without a foundation: material conditions of non-domination in republicanism and radical realism",
+                "author": "Merlin Korfmacher",
+                "institution": "Universitat Pompeu Fabra",
+                "id": 69
+              }
+            ],
+            "id": "sesion-20261127-2-1000",
+            "label": "GT 2"
+          },
+          {
+            "gt": 3,
+            "title": "Overcoming the Global Neoliberal System II",
+            "room": "Seminario de Filosofía Nuria Folch",
+            "talks": [
+              {
+                "title": "Rethinking civil society as a form of life",
+                "author": "Marwan Mahmoud",
+                "institution": "Doha Institute for Graduate Studies",
+                "id": 3
+              },
+              {
+                "title": "The Futuwwa state as a normative model of political order and the institutional foundations of social capital",
+                "author": "Fatemeh Delavari Parizi",
+                "institution": "Parliament Research Center",
+                "id": 72
+              },
+              {
+                "title": "From civil society to societal constitutionalism: power, rights, and social order",
+                "author": "Sabina Tortorella",
+                "institution": "University of Namur",
+                "id": 68
+              },
+              {
+                "title": "Activism within capitalism: resistance and entanglement in grassroots food rescue collectives",
+                "author": "Diána Dunai",
+                "institution": "Eötvös Loránd University",
+                "id": 18
+              }
+            ],
+            "id": "sesion-20261127-3-1000",
+            "label": "GT 3"
+          },
+          {
+            "gt": 4,
+            "title": "Populismo y razón práctica",
+            "room": "Seminario Joan Lluís Vives",
+            "talks": [
+              {
+                "title": "Sobre la guerra en Cicerón: la paz como elemento de justificación y la justicia como fundamento de la legitimidad frente a Estados opresivos",
+                "author": "Lucas de Souza Lima Campos",
+                "institution": "Universidade Federal de Minas Gerais - Universidade Federal de Juiz de Fora",
+                "id": 62
+              },
+              {
+                "title": "A solidariedade como espírito da razão prática: a práxis hermenêutico-filosófica frente à alienação do populismo",
+                "author": "Nikolas Mendes Salvador",
+                "institution": "Universidade Federal de Minas Gerais",
+                "id": 1
+              },
+              {
+                "title": "Reconstructing democracy beyond the populism–elitism dichotomy: reviving Aristotelian rhetoric",
+                "author": "Fatemeh Rayegani",
+                "institution": "International Imam Khomeini University, Qazvin, Iran",
+                "id": 25
+              },
+              {
+                "title": "Democracia, opinião e comunicação pública no século XXI",
+                "author": "Hugo Rezende Henriques; Leonardo Almeida Merussi Neiva",
+                "institution": "Universidade Federal de Uberlândia",
+                "id": 21
+              },
+              {
+                "title": "El diluvio populista y el ahogamiento del centro democrático: datos (e ideas) para combatir la polarización política brasileña",
+                "author": "José Luiz Borges Horta",
+                "institution": "Universidade Federal de Minas Gerais",
+                "id": 85
+              }
+            ],
+            "id": "sesion-20261127-4-1000",
+            "label": "GT 4"
+          },
+          {
+            "gt": 9,
+            "title": "Gobernanza global II",
+            "room": "Seminario María Zambrano",
+            "talks": [
+              {
+                "id": 50,
+                "title": "De la paz por el comercio a la paz mediante la fuerza: Oriente Medio como laboratorio del (des)orden internacional",
+                "author": "Moussa Bourekba",
+                "institution": "CIDOB - Barcelona Centre for International Affairs"
+              },
+              {
+                "id": 58,
+                "title": "Soberanias latino-americanas na reconfiguração da ordem mundial: pressões externas, minerais críticos e territórios de Minas Gerais",
+                "author": "Lucas Nasser Marques de Souza",
+                "institution": "Universidade Federal de Minas Gerais"
+              },
+              {
+                "id": 22,
+                "title": "Derecho originario, efectividad condicionada: el marco temporal y los límites institucionales del reconocimiento de los derechos territoriales indígenas en Brasil",
+                "author": "Ana Carolina Roza Guimarães",
+                "institution": "Universidade Federal do Rio de Janeiro"
+              },
+              {
+                "id": 63,
+                "title": "La ira de los dioses: reestructuración geopolítica y política contemporánea",
+                "author": "Joan Lara Amat y León",
+                "institution": "Universidad Nacional Mayor de San Marcos"
+              }
+            ],
+            "id": "sesion-20261127-9-1000",
+            "label": "GT 5/9"
+          },
+          {
+            "gt": 12,
+            "title": "Corporalidades en crisis II",
+            "room": "Seminario Ramon Llull",
+            "talks": [
+              {
+                "title": "Ritualizar en un territorio herido: cuerpo, memoria y reconocimiento ante la desaparición en México",
+                "author": "Abel Rodríguez Pacheco",
+                "institution": "Universidad Iberoamericana",
+                "id": 61
+              },
+              {
+                "title": "Corporalidades migrantes bajo gestión algorítmica: desafíos bioéticos",
+                "author": "Luz Elena Arozqueta Villeda",
+                "institution": "Universidad Iberoamericana",
+                "id": 12
+              },
+              {
+                "title": "Más allá de las murallas: cuerpo-territorio, inmunidad y cuidado de los restos en la búsqueda de personas desaparecidas en México",
+                "author": "Tzintli Velázquez Pacheco",
+                "institution": "Universidad Iberoamericana",
+                "id": 40
+              },
+              {
+                "title": "El cuerpo como testigo: cuerpo materno, dolor crónico y bioética de la escucha",
+                "author": "Amparo Espinosa Rugarcía",
+                "institution": "Instituto Mexicano de Psicoanálisis - Universidad Iberoamericana Ciudad de México",
+                "id": 81
+              }
+            ],
+            "id": "sesion-20261127-12-1000",
+            "label": "GT 12"
+          }
+        ],
+        "event_lines": []
+      },
+      {
+        "time": "12:00–13:00",
+        "sessions": [],
+        "event_lines": [
+          "Lanzamiento de libro: «The BRICS and the Transformation of Global Power» del Prof. Dr. Francesco Petrone",
+          "Sala Jane Addams"
+        ],
+        "event": {
+          "title": "Presentación de libro",
+          "subtitle": "The BRICS and the Transformation of Global Power",
+          "person": "Francesco Petrone",
+          "room": "Sala Jane Addams",
+          "extra": "",
+          "kind": "book"
+        }
+      },
+      {
+        "time": "13:00–15:00",
+        "sessions": [],
+        "event_lines": [
+          "Lunch break"
+        ],
+        "event": {
+          "title": "Pausa para comer",
+          "subtitle": "",
+          "person": "",
+          "room": "",
+          "extra": "",
+          "kind": "break"
+        }
+      },
+      {
+        "time": "15:00–17:00",
+        "sessions": [
+          {
+            "gt": 4,
+            "title": "Populismo y razón práctica II",
+            "room": "Seminario Joan Lluís Vives",
+            "talks": [
+              {
+                "title": "El rescate paradójico del tradicionalismo metafísico a partir del liderazgo performático: desinformación y subjetividades autoritarias en la extrema derecha latinoamericana",
+                "author": "Genival Silva Souza Filho",
+                "institution": "Universidade de São Paulo - Universidad Nacional de Mar del Plata",
+                "id": 28
+              },
+              {
+                "title": "La participación ciudadana frente a la mera redistribución: alternativas para canalizar la fuerza de los afectos de los populismos de extrema derecha",
+                "author": "João Pedro Braga de Carvalho",
+                "institution": "Universitat de Barcelona – Universidade Federal de Minas Gerais",
+                "id": 86
+              },
+              {
+                "title": "Populismo e razão prática",
+                "author": "Luís Meneses do Vale",
+                "institution": "Universidade de Coimbra",
+                "id": 87
+              },
+              {
+                "title": "Populismo e Estado de Direito como tradição argumentativa: as condições institucionais da razão prática",
+                "author": "Nuno Manuel Morgadinho dos Santos Coelho",
+                "institution": "Universidade de São Paulo - University of Edinburgh).",
+                "id": 88
+              }
+            ],
+            "id": "sesion-20261127-4-1500",
+            "label": "GT 4"
+          },
+          {
+            "gt": 7,
+            "title": "La ilustración oscura II",
+            "room": "Seminario Ramon Llull",
+            "talks": [
+              {
+                "id": 30,
+                "title": "La democracia no es eficiente: las consecuencias autoritarias de la lógica de pensamiento pospolítica",
+                "author": "Cristian Ruiz Martínez",
+                "institution": "Universitat de Barcelona - Universitat Oberta de Catalunya"
+              },
+              {
+                "id": 24,
+                "title": "El tiempo fuera de sus goznes: Timothy Morton y la reconfiguración de la temporalidad en el Antropoceno",
+                "author": "Borja Muntadas",
+                "institution": "UOC-MUSSOL"
+              },
+              {
+                "id": 79,
+                "title": "“La vida no viu”: espontaneïtat i burocràcia en la present crisi de les institucions",
+                "author": "Jordi Vernis López",
+                "institution": "Universitat de Barcelona"
+              },
+              {
+                "id": 46,
+                "title": "La “batalla cultural”: coproducción imaginaria en la ilustración oscura",
+                "author": "Silvia Rodríguez Egaña",
+                "institution": "UOC"
+              },
+              {
+                "id": 89,
+                "title": "La democracia acechada: pensar una nueva economía política de las singularidades ante las nuevas formas de barbarie",
+                "author": "Felipe Oyarzún",
+                "institution": "UOC"
+              }
+            ],
+            "id": "sesion-20261127-7-1500",
+            "label": "GT 7"
+          },
+          {
+            "gt": 8,
+            "title": "Filosofía política y crisis contemporánea II",
+            "room": "Seminario de Filosofía Nuria Folch",
+            "talks": [
+              {
+                "title": "La fuerza de consumo: constitución y evolución, del fordismo al capitalismo digital",
+                "author": "Xavi Cava",
+                "institution": "Universitat de Barcelona",
+                "id": 31
+              },
+              {
+                "title": "Pensar el conflicto palestino-israelí con Arendt: movilidad, pérdida de mundo y dominación espacial",
+                "author": "Cristian González-Aguirre",
+                "institution": "Universitat de Barcelona",
+                "id": 45
+              },
+              {
+                "title": "La orientación de la justicia ambiental que necesitamos para enfrentar la crisis política-ambiental",
+                "author": "Francisco Javier Serrano Franco",
+                "institution": "Universidad Autónoma de Zacatecas",
+                "id": 64
+              },
+              {
+                "title": "Crisis de la formación humana y crisis democrática: Arendt y Nussbaum ante los desafíos de la política contemporánea",
+                "author": "Gilson Carreira Junior",
+                "institution": "Universidade do Vale do Rio dos Sinos - UNISINOS",
+                "id": 16
+              },
+              {
+                "title": "Emociones, política y crisis social",
+                "author": "Paula Arizmendi Mar; Liliana Alicia Demirdjian",
+                "institution": "Universidad Iberoamericana; Universidad de Buenos Aires",
+                "id": 80
+              }
+            ],
+            "id": "sesion-20261127-8-1500",
+            "label": "GT 8"
+          },
+          {
+            "gt": 11,
+            "title": "Necrobiopoder II",
+            "room": "Seminario María Zambrano",
+            "talks": [
+              {
+                "id": 65,
+                "title": "The commodification of animal life under capitalism",
+                "author": "Esther Palm",
+                "institution": "Université de Montréal"
+              },
+              {
+                "id": 77,
+                "title": "Democracia algorítmica e desigualdade digital: os impactos das tecnologias emergentes na participação política e na efetividade dos direitos fundamentais",
+                "author": "Ana Luiza Costa e Silva; Moacir Henrique Junior",
+                "institution": "Universidade do Estado de Minas Gerais; Universidade do Estado de Minas Gerais"
+              },
+              {
+                "id": 19,
+                "title": "Direito na praça: assessoria jurídica comunitária, justiça socioambiental e acesso a direitos em contextos de vulnerabilidade e crise climática em Cláudio/MG",
+                "author": "Alisson Carvalho da Costa; Ana Paula Santos Diniz",
+                "institution": "Universidade do Estado de Minas Gerais UEMG; Universidade do Estado de Minas Gerais UEMG"
+              }
+            ],
+            "id": "sesion-20261127-11-1500",
+            "label": "GT 11"
+          }
+        ],
+        "event_lines": []
+      },
+      {
+        "time": "17:00–18:00",
+        "sessions": [],
+        "event_lines": [
+          "Coffe break + Lanzamiento de libro: «Pensar o presente em grande escala: Ensaios Macrofilosóficos para Gonçal Mayos» de la Profa. Dra. Ana Paula Santos Diniz y del Prof. Dr. Rodrigo Marzano — Vestíbulo de la Sala Jane Addams"
+        ],
+        "event": {
+          "title": "Pausa café y presentación de libro",
+          "subtitle": "Pensar o presente em grande escala: Ensaios Macrofilosóficos para Gonçal Mayos",
+          "person": "Ana Paula Santos Diniz y Rodrigo Marzano",
+          "room": "Vestíbulo de la Sala Jane Addams",
+          "extra": "",
+          "kind": "book"
+        }
+      },
+      {
+        "time": "18:00–19:30",
+        "sessions": [],
+        "event_lines": [
+          "Conferencia de clausura:",
+          "«Els límits de la filosofia: des d'on pensem la democràcia en un món global? (o Kant era comunitarista)»",
+          "Prof. Catedrático Ferran Requejo (Universitat Pompeu Fabra)",
+          "Sala Jane Addams"
+        ],
+        "event": {
+          "title": "Conferencia de clausura",
+          "subtitle": "Els límits de la filosofia: des d’on pensem la democràcia en un món global? (o Kant era comunitarista)",
+          "person": "Ferran Requejo · Universitat Pompeu Fabra",
+          "room": "Sala Jane Addams",
+          "extra": "",
+          "kind": "plenary"
+        }
+      },
+      {
+        "time": "20:30",
+        "sessions": [],
+        "event_lines": [
+          "Confraternización de despedida – Carrer de Joaquín Costa, Ciutat Vella, 08001 Barcelona"
+        ],
+        "event": {
+          "title": "Encuentro de despedida",
+          "subtitle": "",
+          "person": "",
+          "room": "",
+          "extra": "Carrer de Joaquín Costa · Ciutat Vella · 08001 Barcelona",
+          "kind": "general"
+        }
+      }
+    ]
+  }
+]
