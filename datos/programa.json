@@ -172,11 +172,12 @@
         ],
         "event": {
           "title": "Comida de bienvenida",
-          "subtitle": "CCCB",
+          "subtitle": "Bar-restaurante Terracccita · CCCB",
           "person": "",
           "room": "",
           "extra": "16,50 € · Carrer de Montalegre, 5 · 08001 Barcelona",
-          "kind": "break"
+          "kind": "break",
+          "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfvD69AoNygI1HoS-Jc_lmhd6XZSycNgmwOguZdyBkZs5RTQA/viewform?usp=publish-editor"
         }
       },
       {
