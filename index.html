@@ -103,7 +103,8 @@ section[id],.paper[id],.participant-panel{scroll-margin-top:100px}
 .keynotes{padding-top:86px;padding-bottom:86px;border-bottom:1px solid var(--line)}.keynotes-heading{max-width:850px}.keynotes-heading h2{font-size:clamp(39px,4.4vw,62px)}.keynotes-heading>p{color:var(--muted);font-size:15px;max-width:600px;margin:24px 0 0}.keynotes-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:26px;margin-top:40px}.keynote-card{border:1px solid var(--line);border-top:3px solid var(--red);background:var(--white);padding:32px;display:flex;flex-direction:column;scroll-margin-top:100px;min-width:0}.keynote-top{display:flex;flex-direction:column;gap:8px;font-size:11px}.keynote-top>span{color:var(--red);font-weight:700;letter-spacing:.1em;text-transform:uppercase}.keynote-top time{color:var(--muted);font-variant-numeric:tabular-nums}.keynote-card h3{font-family:"Source Serif 4",Georgia,serif;font-weight:500;font-size:clamp(30px,3vw,40px);line-height:1.1;letter-spacing:-.025em;margin:30px 0 8px}.keynote-affiliation{font-size:12px;color:var(--muted);margin:0}.keynote-title{margin:27px 0 22px;padding-top:22px;border-top:1px solid var(--line)}.keynote-title h4{font-family:"Source Serif 4",Georgia,serif;font-size:25px;line-height:1.25;font-weight:500;margin:0;text-wrap:pretty}.keynote-bio{font-size:14px;line-height:1.75;color:#514c47;margin:0 0 28px}.keynote-footer{margin-top:auto;padding-top:20px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;font-size:11px}.keynote-footer>span{font-weight:600}.keynote-footer a{color:var(--red);text-decoration:underline;text-underline-offset:3px}.keynotes-program-link{display:inline-block;margin-top:26px;font-size:12px;font-weight:600;border-bottom:1px solid var(--ink);padding-bottom:3px}
 @media(max-width:780px){.keynotes-grid{grid-template-columns:1fr;gap:20px}.keynote-card{padding:26px}.keynotes-heading h2{font-size:40px}.keynote-title h4{font-size:25px}.hero-keynotes>div{gap:9px 20px}.hero-keynotes a{font-size:18px}}
 @media print{.keynotes{break-before:page}.keynotes-grid{display:block}.keynote-card{break-inside:avoid;margin-bottom:20px}}
-</style></head>
+</style><link rel="stylesheet" href="i18n.css">
+</head>
 <body>
 <a class="skip-link" href="#gt">Ir al catálogo de propuestas</a>
   <div class="noise" aria-hidden="true"></div>
@@ -122,6 +123,7 @@ section[id],.paper[id],.participant-panel{scroll-margin-top:100px}
       <a href="#ponentes">Ponentes</a>
       <a href="#sede">Sede</a>
     </nav>
+<div class="language-switcher" data-language-switcher role="group" aria-label="Idioma / Llengua / Language"><button type="button" data-language="es" lang="es" title="Español" aria-label="Español" aria-pressed="true">ES</button><button type="button" data-language="ca" lang="ca" title="Català" aria-label="Català" aria-pressed="false">CA</button><button type="button" data-language="en" lang="en" title="English" aria-label="English" aria-pressed="false">EN</button></div>
     <a class="nav-cta" href="#programa">Ver programa</a>
   </header>
 
@@ -205,6 +207,7 @@ section[id],.paper[id],.participant-panel{scroll-margin-top:100px}
  <div class="section-heading split"><div><div class="section-kicker">02 · Mesas y comunicaciones</div><h2>Las voces de las Jornadas.</h2></div><p>Consulta las comunicaciones, su autoría y los resúmenes disponibles.</p></div>
  <div class="gt-toolbar"><label class="searchbox"><span>Buscar comunicaciones</span><input id="gt-search" type="search" placeholder="Título, persona, institución o tema…" autocomplete="off"></label><div class="gt-count" id="search-status" aria-live="polite"></div></div>
  <div class="catalog-tools"><label>Grupo <select id="catalog-filter"><option value="all">Todos los grupos</option><option value="1">GT 01</option><option value="2">GT 02</option><option value="3">GT 03</option><option value="4">GT 04</option><option value="6">GT 06</option><option value="7">GT 07</option><option value="8">GT 08</option><option value="9">GT 09</option><option value="11">GT 11</option><option value="12">GT 12</option></select></label><button id="expand-all" type="button">Abrir resúmenes</button><button id="collapse-all" type="button">Cerrar resúmenes</button><a href="#participantes">Índice de participantes ↓</a></div>
+ <p class="language-note">Los títulos de las ponencias y los resúmenes se conservan en su idioma original. El PDF del programa y el formulario del almuerzo están en español.</p>
  <p class="catalog-summary" id="catalog-summary"></p><div class="gt-grid" id="gt-grid"></div>
  <div id="catalog-empty" hidden><p>No hay resultados para esta búsqueda.</p><button type="button" id="reset-search">Restablecer búsqueda</button></div>
  <div class="participant-panel" id="participantes"><h3>Índice de participantes</h3><p>Personas autoras de las comunicaciones mostradas con el filtro seleccionado.</p><div id="participant-list"></div></div>
@@ -435,7 +438,7 @@ function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&l
 const grid=document.querySelector('#gt-grid');
 const search=document.querySelector('#gt-search');
 const mode=document.querySelector('#catalog-filter');
-const sortP=(a,b)=>a.author.localeCompare(b.author,'es')||a.title.localeCompare(b.title,'es');
+const sortP=(a,b)=>a.author.localeCompare(b.author,document.documentElement.lang)||a.title.localeCompare(b.title,document.documentElement.lang);
 const groupLabel=n=>groups.find(g=>g.n===n)?.label||'Grupo pendiente';
 function card(p){
  const slot=p.schedule[0];
@@ -461,7 +464,7 @@ function render(){
  document.querySelector('#catalog-empty').hidden=!!selected.length;
  const people=new Map();
  selected.forEach(p=>p.author.split(';').map(a=>a.trim()).forEach(a=>{if(!people.has(a))people.set(a,[]);people.get(a).push(p)}));
- document.querySelector('#participant-list').innerHTML=[...people].sort(([a],[b])=>a.localeCompare(b,'es')).map(([name,ps])=>`<div class="participant-item"><strong>${esc(name)}</strong>${ps.map(p=>`<a href="#propuesta-${p.id}" data-paper="${p.id}">${esc(groupLabel(p.mesa))} · ${esc(p.title)}</a>`).join('')}</div>`).join('');
+ document.querySelector('#participant-list').innerHTML=[...people].sort(([a],[b])=>a.localeCompare(b,document.documentElement.lang)).map(([name,ps])=>`<div class="participant-item"><strong>${esc(name)}</strong>${ps.map(p=>`<a href="#propuesta-${p.id}" data-paper="${p.id}">${esc(groupLabel(p.mesa))} · ${esc(p.title)}</a>`).join('')}</div>`).join('');
 }
 search.addEventListener('input',render);
 mode.addEventListener('change',render);
@@ -483,7 +486,7 @@ function filterProgram(){
   day.querySelectorAll('.program-block').forEach(block=>{
    let blockVisible=false;
    block.querySelectorAll('[data-program-item]').forEach(item=>{
-    const visible=(programDay==='all'||day.dataset.programDay===programDay)&&(group==='all'||item.dataset.gt===group)&&item.dataset.search.includes(q);
+    const visible=(programDay==='all'||day.dataset.programDay===programDay)&&(group==='all'||item.dataset.gt===group)&&(item.dataset.search+' '+normalize(item.textContent)).includes(q);
     item.hidden=!visible;
     if(visible){blockVisible=true;if(item.classList.contains('program-session')){sessions++;talks+=item.querySelectorAll('.program-talks li').length;}else{events++;}}
    });
@@ -533,5 +536,6 @@ if(countdown){
 }
 
 </script>
+<script src="i18n.js"></script>
 </body>
 </html>
