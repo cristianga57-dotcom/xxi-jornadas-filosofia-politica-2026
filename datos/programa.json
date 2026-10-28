@@ -82,7 +82,7 @@
                 "id": 76,
                 "title": "¿Puede un escritor demoler un imperio?",
                 "author": "Eduard Tarnawski Geslowska",
-                "institution": "Afiliación no indicada"
+                "institution": ""
               },
               {
                 "id": 34,
@@ -92,7 +92,7 @@
               }
             ],
             "id": "sesion-20261126-9-1000",
-            "label": "GT 5/9"
+            "label": "GT 9"
           },
           {
             "gt": 11,
@@ -113,7 +113,7 @@
               },
               {
                 "title": "Corpos essenciais, vidas descartáveis: necropoder, desigualdade racial e vulnerabilização das mulheres negras no Brasil em contextos de crise",
-                "author": "Ana Paula Santos Diniz; Maria Eduarda Franciscani Almeida Ferreira",
+                "author": "Ana Paula Santos Diniz; Maria Eduarda Almeida Ferreira",
                 "institution": "Universidade do Estado de Minas Gerais",
                 "id": 13
               },
@@ -130,7 +130,7 @@
           {
             "gt": 12,
             "title": "Corporalidades en crisis I",
-            "room": "Seminario Ramon Llull",
+            "room": "Seminario Ramon Llul",
             "talks": [
               {
                 "title": "Ecología del hombre: hacia una fundamentación ontológica de los derechos humanos en la era posthumana",
@@ -223,7 +223,7 @@
             "talks": [
               {
                 "title": "Más allá de la supervivencia: Giorgio Cesarano y los límites de la subversión en el capitalismo cibernético",
-                "author": "Bernat Torner Arís",
+                "author": "Bernat Torner",
                 "institution": "Universitat Pompeu Fabra",
                 "id": 39
               },
@@ -247,7 +247,7 @@
               },
               {
                 "title": "Disability justice, care, and the reconfiguration of global communities beyond neoliberal medical-industrial complex",
-                "author": "Àger Pérez Casanovas",
+                "author": "Ager Perez Casanovas",
                 "institution": "Universitat de Barcelona",
                 "id": 20
               }
@@ -258,11 +258,11 @@
           {
             "gt": 6,
             "title": "El lado humano de la Inteligencia Artificial",
-            "room": "Seminario Ramon Llull",
+            "room": "Seminario Ramon Llul",
             "talks": [
               {
                 "title": "La individuació dels objectes digitals i les IA generatives",
-                "author": "David Barrio Rubio",
+                "author": "David Barrio",
                 "institution": "Universitat de Barcelona",
                 "id": 33
               },
@@ -285,8 +285,8 @@
                 "id": 82
               },
               {
-                "title": "O Direito Internacional entre a fragmentação normativa e as resistências no multilateralismo da governança da Inteligência Artificial",
-                "author": "Fabrício B. Pasquot Polido",
+                "title": "O Direito Internacional entre a fragmentação normativa e as resistências no multilateralismo da governança da Inteligência Artificial",
+                "author": "Fabricio B. Pasquot Polido",
                 "institution": "Universidade Federal de Minas Gerais",
                 "id": 83
               },
@@ -314,7 +314,7 @@
               {
                 "title": "Estábamos advertidos",
                 "author": "Josep Pradas Broch",
-                "institution": "Independiente",
+                "institution": "",
                 "id": 23
               },
               {
@@ -541,12 +541,12 @@
               }
             ],
             "id": "sesion-20261127-9-1000",
-            "label": "GT 5/9"
+            "label": "GT 9"
           },
           {
             "gt": 12,
             "title": "Corporalidades en crisis II",
-            "room": "Seminario Ramon Llull",
+            "room": "Seminario Ramon Llul",
             "talks": [
               {
                 "title": "Ritualizar en un territorio herido: cuerpo, memoria y reconocimiento ante la desaparición en México",
@@ -556,7 +556,7 @@
               },
               {
                 "title": "Corporalidades migrantes bajo gestión algorítmica: desafíos bioéticos",
-                "author": "Luz Elena Arozqueta Villeda",
+                "author": "Luz Elena Arozqueta",
                 "institution": "Universidad Iberoamericana",
                 "id": 12
               },
@@ -639,7 +639,7 @@
               {
                 "title": "Populismo e Estado de Direito como tradição argumentativa: as condições institucionais da razão prática",
                 "author": "Nuno Manuel Morgadinho dos Santos Coelho",
-                "institution": "Universidade de São Paulo - University of Edinburgh).",
+                "institution": "Universidade de São Paulo - University of Edinburgh",
                 "id": 88
               }
             ],
@@ -649,7 +649,7 @@
           {
             "gt": 7,
             "title": "La ilustración oscura II",
-            "room": "Seminario Ramon Llull",
+            "room": "Seminario Ramon Llul",
             "talks": [
               {
                 "id": 30,
@@ -733,7 +733,7 @@
                 "id": 65,
                 "title": "The commodification of animal life under capitalism",
                 "author": "Esther Palm",
-                "institution": "Université de Montréal"
+                "institution": "Université de Montreal"
               },
               {
                 "id": 77,
